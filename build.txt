@@ -1,0 +1,3 @@
+displayName = Mod Decompiler
+author = Webmilio
+version = 0.1
